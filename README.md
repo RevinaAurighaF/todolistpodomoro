@@ -16,7 +16,7 @@ Dibuat dengan **PHP, CSS, dan JavaScript**, dilengkapi desain lucu warna soft pi
 1. Clone repo:
 
    ```bash
-   git clone https://github.com/username/todo-pomodoro.git
+   git clone https://github.com/RevinaAurighaF/todo-pomodoro.git
    ```
 2. Masuk ke folder project:
 
